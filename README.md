@@ -1,7 +1,7 @@
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom💖&width=1000&height=400)](https://github.com/XiaBai0601)
 
 <h1 align="center">今夜的风儿吹</h1>
-<h3 align="center">(https://s1.328888.xyz/2022/05/30/5HSZy.jpg)</h3>
+<h3 align="center">https://s1.328888.xyz/2022/05/30/5HSZy.jpg</h3>
 
 ### 🌈 Github Stats:
 <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@XiaBai0601?theme=rule34"></a><br>
