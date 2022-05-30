@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=魏无羡💖&width=1000&height=400)](https://github.com/XiaBai0601)
+[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=魏无羡💖&width=0000&height=400)](https://github.com/XiaBai0601)
 
 <h1 align="center">今夜的风儿吹</h1>
 ＃<h3 align="center">https://s1.328888.xyz/2022/05/30/5HSZy.jpg</h3>
