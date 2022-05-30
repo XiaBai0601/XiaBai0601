@@ -10,24 +10,21 @@
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xihuanxiaorang&theme=monokai">
 
 ### 📫 How to reach me:
-- :octocat: [github@xiaorang](https://github.com/xihuanxiaorang)
-- :email: [gmail@xiaorang](mailto:15019474951@gmail.com)
-- :tv: [bilibili@xiaorang](https://space.bilibili.com/307881917)
-- :bird: [yuque@xiaorang](https://www.yuque.com/xihuanxiaorang)
+- :octocat: [github@XiaBai0601](https://github.com/XiaBai0601)
+- :email: [gmail@XiaBai0601](mailto:whw1489185654@gmail.com)
 
 
 | :pencil2: | :book:  |
 | --- | --- |
-| [Blogs](https://xihuanxiaorang.github.io/) | [Books](https://www.yuque.com/xihuanxiaorang/java) |
+| [Blogs](https://XiaBai0601.github.io/) |
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🍭 Write Articles on [Yueque](https://www.yuque.com/xihuanxiaorang/java) with [github](https://github.com/xihuanxiaorang/)
-2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
+1. 🍭 Write Articles on [github](https://github.com/XiaBai0601/)
 <!--END_SECTION:activity-->
 
 <!--
-**xihuanxiaorang/xihuanxiaorang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**XiaBai0601/XiaBai0601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
